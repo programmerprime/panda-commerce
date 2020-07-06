@@ -1,0 +1,3 @@
+#fceae8 = carousel background
+
+#ff136f = price color

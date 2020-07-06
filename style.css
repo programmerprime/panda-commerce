@@ -24,3 +24,29 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-bottom: 60px;
+}
+
+.cat1 {
+    background-image: linear-gradient(to right, darkorange, orange);
+}
+
+.cat2 {
+    background-image: linear-gradient(to right, #ff136f, #ff589b);
+}
+
+.cat3 {
+    background-image: linear-gradient(to right, forestgreen, mediumseagreen);
+}
+
+.categories h1 {
+    color: white;
+}
+
+.categories img {
+    width: 100px;
+}

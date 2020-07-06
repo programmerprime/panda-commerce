@@ -70,9 +70,26 @@
 }
 
 #shoes {
+    margin-top: 20px;
     margin-bottom: 60px;
 }
 
 #backpack {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+#subscribe {
+    height: 300px;
+    margin-top: 20px;
     margin-bottom: 60px;
 }
+
+.input-box {
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    size: 40;
+    border: 1px solid lightgray;
+}
+

@@ -50,3 +50,29 @@
 .categories img {
     width: 100px;
 }
+
+.card-text {
+    text-align: justify;
+}
+
+.card-buy:hover {
+    background-image: linear-gradient(to bottom, #df75ff, #c505ff);
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card-footer {
+    border: none;
+}
+
+#shoes {
+    margin-bottom: 60px;
+}
+
+#backpack {
+    margin-bottom: 60px;
+}
